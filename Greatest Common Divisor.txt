@@ -1,6 +1,5 @@
 Start
 Declare maximum,minimum
-Read num1, num2
 Print input the first number
 Read num1
 Print input the second number
