@@ -1,0 +1,14 @@
+Start
+Print enter number 1
+Read n1
+Print enter number 2
+Read n2
+Print enter op
+Read op
+if(op=="/")
+    Print n1/n2 is the division
+else if(op=="*")
+    Print n1*n2 is the product
+else
+    Print invalid operator
+End
