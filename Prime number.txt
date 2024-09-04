@@ -1,0 +1,15 @@
+Start
+Rrint enter a number
+Read num
+Set prime=true
+for loop i=2 till i<=num/2, increment=1
+if(num%i==0)
+      prime=false
+      Break from the loop
+if(num<=1)
+      Print num is neither prime nor composite
+else if(prime==true)
+       Print num is prime
+else if(prime==false)
+       Print num is composite
+End
