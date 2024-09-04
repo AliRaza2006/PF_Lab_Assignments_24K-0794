@@ -3,7 +3,7 @@ Print enter number 1
 Read n1
 Print enter number 2
 Read n2
-Print enter op
+Print enter operator
 Read op
 if(op=="/")
     Print n1/n2 is the division
