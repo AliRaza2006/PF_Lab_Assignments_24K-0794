@@ -1,0 +1,19 @@
+Start
+Print enter day
+Read day
+Calculate mod=day%7
+if(mod==1)
+   Print monday
+else if(mod==2)
+   Print tuesday 
+else if(mod==3)
+   Print wednesday
+step 8: else if(mod==4)
+   Print thursday
+else if(mod==5)
+   Print friday
+else if(mod==6)
+   Print saturday
+else if(mod==0)
+   Print sunday
+End
