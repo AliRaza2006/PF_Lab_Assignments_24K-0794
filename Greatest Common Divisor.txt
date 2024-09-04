@@ -1,0 +1,19 @@
+Start
+Declare maximum,minimum
+Read num1, num2
+Print input the first number
+Read num1
+Print input the second number
+Read num2
+if(num1>num2)
+        maximum=num1
+        minimum=num2
+else
+    maximum=num2
+    minimum=num1
+while loop till minimum!=0
+    calculate remainder=maximum%minimum
+    maximum=minimum
+    minimum=remainder
+Print GCD is maximum
+End
