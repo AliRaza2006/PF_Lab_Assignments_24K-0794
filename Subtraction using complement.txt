@@ -1,0 +1,7 @@
+Start
+Print enter two numbers
+Read n1,n2
+Calculate complement_n2=~n2+1
+Calculate subtraction=n1+complement_n2
+Print subtraction
+End
