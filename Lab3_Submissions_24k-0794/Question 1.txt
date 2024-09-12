@@ -1,0 +1,2 @@
+QUESTION#1
+The output of the C program is being displayed wrong because the 'testvariable' has a datatype of int, which has a range from -2,147,483,648 to 2,147,483,647, has been initialized to the value of 3000000000 that is not in the range of int datatype.
